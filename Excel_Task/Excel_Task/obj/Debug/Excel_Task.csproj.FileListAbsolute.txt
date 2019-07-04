@@ -1,0 +1,13 @@
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\bin\Debug\Excel_Task.exe.config
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\bin\Debug\Excel_Task.exe
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\bin\Debug\Excel_Task.pdb
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\bin\Debug\EPPlus.dll
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\bin\Debug\EPPlus.xml
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\obj\Debug\Excel_Task.Form1.resources
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\obj\Debug\Excel_Task.Properties.Resources.resources
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\obj\Debug\Excel_Task.csproj.GenerateResource.cache
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\obj\Debug\Excel_Task.csproj.CoreCompileInputs.cache
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\obj\Debug\Excel_Task.csproj.CopyComplete
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\obj\Debug\Excel_Task.exe
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\obj\Debug\Excel_Task.pdb
+C:\Users\Omnya\Desktop\efg hermes\Excel_Task\Excel_Task\obj\Debug\Excel_Task.csprojAssemblyReference.cache
